@@ -1,9 +1,10 @@
 #include <QCoreApplication>
 #include <iostream>
 #include "QStringDemo.h"
+#include "QDateDemo.h"
 
 int main(int argc, char *argv[])
 {
-    demoString9();
+    demoDate1();
     return 0;
 }
