@@ -4,8 +4,6 @@
 
 int main(int argc, char *argv[])
 {
-    demo1();
-    std::cout << std::endl;
-    demo2();
+    demoString9();
     return 0;
 }
